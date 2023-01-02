@@ -1,0 +1,114 @@
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+}
+.container {
+  height: 700px;
+}
+h3 {
+  font-size: 30px;
+}
+.color-highlight {
+  font-size: 40px;
+  color: rgb(237, 48, 130);
+}
+.half-width {
+  float: left;
+  width: 40%;
+  height: 100%
+}
+.first-text {
+  margin-left: 13%;
+}
+.first-image img {
+  width: 90%;
+  margin-top: 50px;
+  margin-left: 40px;
+}
+ h3{
+    margin-top: 120px;
+}
+.button {
+  background-color: rgb(237, 48, 130);
+  text-decoration: none;
+  color: #ffffff;
+  padding: 10px 40px;
+  border-radius: 5px; 
+  background-image: linear-gradient(30deg, rgb(251, 99, 165),rgb(248, 1, 108));
+}
+p{
+    margin-bottom: 40px;
+    color: rgb(157, 149, 149);
+}
+.first{
+    background-image: url(images/bg-images/header-bg.png);
+    background-size: 1400px;
+    background-repeat: no-repeat;
+}
+.second{
+    background-image: url(images/bg-images/biography-bg.png);
+    background-size: 1400px;
+    background-repeat: no-repeat;
+    height: 600px;
+}
+.third{
+    background-image: url(images/bg-images/latest-work-bg.png);
+    background-size: 1600px;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+.fourth{
+    background-image: url(/images/bg-images/footer-bg.png);
+    background-size: 1500px;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+.second-text{
+    margin-left: 90px;
+}
+.second-image img{
+    width: 80%;
+    margin-top: 50px;
+    margin-left: 120px;
+  }
+  .third h3{
+    text-align: center;
+  }
+  .latest-image{
+    width: 30%;
+    float: left;
+    margin-left: 2.4%;
+  }
+  .latest-work-image{
+    margin-top: 100px;
+  }
+  .fourth{
+    text-align: center;
+  }
+  .color-silver{
+  color: rgb(157, 149, 149);
+  margin-bottom: 300px;
+  font-size: 9px;
+}
+#text-size{
+  font-size: 100px;
+}
+footer p{
+  text-align: center;
+  font-size: xx-small;
+}
+button{
+   border: none;
+   font-family: "Poppins", sans-serif;
+   margin: 10px 20px;
+   font-weight: 600;
+}
+
+button a{
+  text-decoration: none;
+  color: white;
+  
+}
+.button-special{
+padding: 20px 80px;
+}
